@@ -16,5 +16,5 @@
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-rafael-dos-santos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/carlos-rafael-dos-santos/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-rafael-dos-santos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/carlos-rafael-dos-santos/" height="40" width="80" /></a>
 </p>
