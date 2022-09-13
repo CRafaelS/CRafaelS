@@ -1,9 +1,8 @@
 <h1 align="center"> Oi 👋, Eu sou o Carlos Rafael </h1>
 
-<h4>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e atualmente sou desenvolvedor web FulStack:
+<h4>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e atualmente sou desenvolvedor web FulStack:</h4>
 
-  
-- 🔭 Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe </a> - Turma <a href="https://www.xpinc.com/" target="blank">XP!</a></h4> 
+- 🔭 Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe </a> - Turma <a href="https://www.xpinc.com/" target="blank">XP!</a>
 - 🌱 Estou no último módulo do curso.
 - 💬 Adoro conversar, vamos falar sobre tecnologia?
 
