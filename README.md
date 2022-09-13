@@ -1,9 +1,9 @@
 <h1 align="center"> Oi 👋, Eu sou o Carlos Rafael </h1>
 
-<h4>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="blank">Trybe </a> em parceria com a <a href="https://www.xpinc.com/" target="blank">XP!</a></h4>
+<h4>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e atualmente sou desenvolvedor web FulStack
 
-- 🔭 Desenvolvimento Web na Trybe - Turma XP 
-- 🌱 Estou no módulo de Back-end
+- 🔭 Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe </a> - Turma <a href="https://www.xpinc.com/" target="blank">XP!</a></h4> 
+- 🌱 Estou no último módulo do curso.
 - 💬 Adoro conversar, vamos falar sobre tecnologia?
 
 <h3 align="left">Linguagens/Habilidades:</h3>
