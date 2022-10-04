@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Carlos Rafael</h1>
-<h3>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e atualmente sou desenvolvedor web FulStack:</h3>
+<h3>Sou natural de Monte Sião-MG, formado em Engenharia Elétrica com Habilitação em Telecomunicações pela UFJF (Universidade Federal de Juiz de Fora) e atualmente sou desenvolvedor web FullStack:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafaels&label=Profile%20views&color=0e75b6&style=flat" alt="crafaels" /> </p>
 
