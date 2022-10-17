@@ -6,7 +6,7 @@
 <h3 align="left">Vamos conversar?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-rafael-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-rafael-dos-santos/" height="30" width="40" /></a>
-<a href="carlos.rafael@engenharia.ufjf.br" >
+<a href="mailto:carlos.rafael@engenharia.ufjf.br" >
     <img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="carlos.rafael@engenharia.ufjf.br" height="30" width="40" />
   </a>
 </p>
